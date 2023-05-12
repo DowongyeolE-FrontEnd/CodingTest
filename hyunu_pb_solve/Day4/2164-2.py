@@ -24,3 +24,4 @@ else:
             queue.append(queue.popleft())
             cnt = 0
     print(queue[0])
+
